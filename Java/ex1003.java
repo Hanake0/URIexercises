@@ -9,6 +9,6 @@ public class Main {
 		int b = in.nextInt();
 		in.close();
 
-		System.out.printf("SOMA = %d", (a + b));
+		System.out.printf("SOMA = %d\n", (a + b));
 	}
 }
