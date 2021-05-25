@@ -10,6 +10,6 @@ public class Main {
 		int b = in.nextInt();
 		in.close();
 
-		System.out.printf("X = %d", (a + b));
+		System.out.printf("X = %d\n", (a + b));
 	}
 }
