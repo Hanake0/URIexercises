@@ -9,6 +9,6 @@ public class Main {
 		final double r = in.nextDouble();
 		in.close();
 
-		System.out.printf("A=%.4f\n", pi*r*r);
+		System.out.printf("A=%.4f\n", (pi*r*r));
 	}
 }
