@@ -9,6 +9,6 @@ public class Main {
 		int b = in.nextInt();
 		in.close();
 
-		System.out.printf("PROD = %d", (a * b));
+		System.out.printf("PROD = %d\n", (a * b));
 	}
 }
