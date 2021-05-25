@@ -10,6 +10,6 @@ public class Main {
 		float c = in.nextFloat();
 		in.close();
 
-		System.out.printf("MEDIA = %.1f", ( ((a*2f) + (b*3f) + (c*5f))/10f ));
+		System.out.printf("MEDIA = %.1f\n", ( ((a*2f) + (b*3f) + (c*5f))/10f ));
 	}
 }
