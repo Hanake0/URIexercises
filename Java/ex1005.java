@@ -9,6 +9,6 @@ public class Main {
 		float b = in.nextFloat();
 		in.close();
 
-		System.out.printf("MEDIA = %.5f", ( ((a*3.5f) + (b*7.5f))/11f ));
+		System.out.printf("MEDIA = %.5f\n", ( ((a*3.5f) + (b*7.5f))/11f ));
 	}
 }
